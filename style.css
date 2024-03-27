@@ -1,1 +1,23 @@
-body{background-color: blueviolet;}
+p2{
+    background-color: aqua; font-size: large;
+    text-align: center;
+}
+p3{
+    background-color: antiquewhite; font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+#My-name {
+    font-size: 50px;
+    background-color: yellowgreen;
+    padding: 600px 60px 600px 60px;
+    border-style: dotted;
+}
