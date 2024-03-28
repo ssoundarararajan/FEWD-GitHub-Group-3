@@ -15,7 +15,7 @@ p3{
     justify-content: space-between;
 }
 
-#My-name {
+#My-name p{
     font-size: 50px;
     background-color: yellowgreen;
     padding: 600px 60px 600px 60px;
